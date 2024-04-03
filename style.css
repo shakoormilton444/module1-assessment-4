@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    outline-color: red;
+    outline-style: solid;
+    font-size: 40px;
+    font-family: fantasy,sans-serif;
+    text-align: center;
+}
+  
+p{ 
+    font-weight: 800;
+    text-decoration: line-through;
+}
+
+table{
+      font-family: fantasy,sans-serif;
+      border-collapse: collapse;
+      border-width   : 5px;
+      border-style   : solid;
+      border-color: red;
+      width: 100%;
+}
+
+td{
+   background-color: blue;
+   text-align: center;
+   
+}
+
+th{
+    font-family: fantasy,sans-serif;
+    font-weight: 500;
+    background-color: red;
+    color: #ffffff
+}
